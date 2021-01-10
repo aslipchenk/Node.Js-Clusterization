@@ -28,5 +28,11 @@ When you run node cluster.js
 
 I make many tests and if we have high loaded server with many process clusterization is a good solution for us. But sometimes one main thread its better if we has a simple application you can delete for loop cycle in file server.js and run tests again. You will see that server with cluster little bit slower then one thread server.
 
+Also i add restarting worker if we had some errors.
+
+<img width="716" alt="Снимок экрана 2021-01-10 в 21 48 03" src="https://user-images.githubusercontent.com/52598497/104138033-f6cadb00-53a9-11eb-8357-e80da110629d.png">
+
+Run command kill (value of PID)
+
 
 
