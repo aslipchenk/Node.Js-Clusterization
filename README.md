@@ -34,5 +34,9 @@ Also i add restarting worker if we had some errors.
 
 Run command kill (value of PID)
 
+<img width="444" alt="Снимок экрана 2021-01-10 в 21 48 53" src="https://user-images.githubusercontent.com/52598497/104138098-78226d80-53aa-11eb-9769-32c12f38c017.png">
+
+#Thanks
+
 
 
