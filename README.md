@@ -18,4 +18,7 @@ Where -d - time in seconds, -c - value of connects to your server.
 
 ## Tests 
 
+When you run node index.js 
+
+<img width="716" alt="Снимок экрана 2021-01-10 в 21 46 15" src="https://user-images.githubusercontent.com/52598497/104137791-1d881200-53a8-11eb-85b3-3694173b0b01.png">
 
