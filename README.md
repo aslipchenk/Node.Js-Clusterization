@@ -22,9 +22,11 @@ When you run node index.js
 
 <img width="716" alt="Снимок экрана 2021-01-10 в 21 46 15" src="https://user-images.githubusercontent.com/52598497/104137791-1d881200-53a8-11eb-85b3-3694173b0b01.png">
 
-When you use clusterization
+When you run node cluster.js
 
 <img width="716" alt="Снимок экрана 2021-01-10 в 21 47 02" src="https://user-images.githubusercontent.com/52598497/104137842-735cba00-53a8-11eb-8246-0c4c15e4d1e1.png">
+
+I make many tests and if we have high loaded server with many process clusterization is a good solution for us. But sometimes one main thread its better if we has a simple application you can delete for loop cycle in file server.js and run tests again. You will see that server with cluster little bit slower then one thread server.
 
 
 
