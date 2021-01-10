@@ -1,7 +1,7 @@
 # Node.Js-Clusterization
 
 ## Description
-This that has been wrote is a simple application where you can add images from your local storage.
+This is a simple application where you can add images from your local storage.
 In this application i specially add big for loop cycle in order to see how clusterization works in Node.Js.
 
 ## Usage
